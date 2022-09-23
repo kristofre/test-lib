@@ -21,7 +21,7 @@
 - include_role:
     name: "use-case-ext"
   vars:
-    use_case_ext_src: ""
+    use_case_ext_src: "https://github.com/dynatrace-ace/ace-box-lib-apps"
     use_case_ext_version: "HEAD"
     use_case_ext_name: "demo-apps"
     use_case_ext_launch_on_load: false
