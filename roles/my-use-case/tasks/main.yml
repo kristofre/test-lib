@@ -7,9 +7,6 @@
 # external repo or included from a curated list
 # of ACE-Box default roles.
 # 
-- debug:
-    msg: "Hello from {{ my_ext_use_case_name }}!"
-
 # 
 # microk8s, dt-oneagent and jenkins are curated roles provided by 
 # the ACE-Box.
