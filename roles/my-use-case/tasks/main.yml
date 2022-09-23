@@ -24,6 +24,7 @@
     use_case_ext_src: ""
     use_case_ext_version: "HEAD"
     use_case_ext_name: "demo-apps"
+    use_case_ext_launch_on_load: false
 
 - include_role:
     name: demo-app-easytravel
